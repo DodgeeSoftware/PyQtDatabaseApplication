@@ -1,3 +1,5 @@
+# Simple Desktop Application (Python, MySQLConnector/Py, PyQT)
+
 This is a Simple Desktop Application which administers a MySQL Database. 
 
 This Application was written using Python, MySQLConnector/Py library and PyQt.
